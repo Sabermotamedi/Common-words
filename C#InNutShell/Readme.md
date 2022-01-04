@@ -2,9 +2,9 @@
 
 This repository created in 3 section
 
- 1. List of words whit the words by length >= 4
- 2. List of words whit the words by length >= 6
- 3. List of words whit the words by length >= 8
+ 1. [List of words whit the words by length >= 4](#worlds-with-lenth--4)
+ 2. [List of words whit the words by length >= 6](#worlds-with-lenth--6)
+ 3. [List of words whit the words by length >= 8](#worlds-with-lenth--8)
  
  Actually you can find repeated words at that list  
 
